@@ -1,0 +1,14 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "STABLX Web Dev Intern Selection Round",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
